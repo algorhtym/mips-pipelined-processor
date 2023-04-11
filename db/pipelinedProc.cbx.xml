@@ -1,7 +1,0 @@
-<?xml version="1.0" ?>
-<LOG_ROOT>
-	<PROJECT NAME="pipelinedProc">
-		<CBX_INST_ENTRY INSTANCE_NAME="|pipelinedProc|instr_mem:ROM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_7p91.tdf"/>
-		<CBX_INST_ENTRY INSTANCE_NAME="|pipelinedProc|main_mem:RAM|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_njg1.tdf"/>
-	</PROJECT>
-</LOG_ROOT>
